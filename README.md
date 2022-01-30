@@ -1,6 +1,6 @@
 # Unbounded Cartesian
 
-Creates an unbounded cartesian product of N lists of lists recursively.
+Creates an unbounded cartesian product of a list of N lists recursively.
 
 Equivalent to
 ```python
