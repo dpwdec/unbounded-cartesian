@@ -9,7 +9,7 @@ def test_ubc():
         ["あ", "え"]
     ]
 
-    result = ubc((), *inp)
+    result = ubc(*inp)
 
     assert result == [
         (1, "a", "🤡", "あ"),
